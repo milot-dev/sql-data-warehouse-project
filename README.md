@@ -3,6 +3,10 @@
 
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
+## Note
+
+The project is not mine, it is a part of my journey of mastering SQL and transitioning to DE. I'm making this repository public just for evidence that I have completed SQL Full Course for Beginners (30 Hours) – From Zero to Hero, Data with Baraa 'https://www.youtube.com/watch?v=SSKVgrwhzus&t=80665s&ab_channel=DatawithBaraa'.
+
 ---
 ## 🏗️ Data Architecture
 
@@ -68,11 +72,11 @@ data-warehouse-project/
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
-│   ├── etl.drawio                      # Draw.io file shows all different techniquies and methods of ETL
-│   ├── data_architecture.drawio        # Draw.io file shows the project's architecture
+│   ├── data_architecture.png           # PNG file shows the project's architecture
 │   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── data_flow.drawio                # Draw.io file for the data flow diagram
-│   ├── data_models.drawio              # Draw.io file for data models (star schema)
+│   ├── data_flow.png                   # PNG file for the data flow diagram
+│   ├── data_models.png                 # PNG file for data models (star schema)
+│   ├── data_integration.png            # PNG file to see how tables are related CRM, ERP.
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                            # SQL scripts for ETL and transformations

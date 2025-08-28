@@ -5,7 +5,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 
 ## Note
 
-The project is not mine, it is a part of my journey of mastering SQL and transitioning to DE. I'm making this repository public just for evidence that I have completed SQL Full Course for Beginners (30 Hours) – From Zero to Hero, Data with Baraa 'https://www.youtube.com/watch?v=SSKVgrwhzus&t=80665s&ab_channel=DatawithBaraa'.
+The project is a part of my journey of mastering SQL and transitioning to DE. I'm making this repository public just for evidence that I have completed SQL Full Course for Beginners (30 Hours) – From Zero to Hero, Data with Baraa 'https://www.youtube.com/watch?v=SSKVgrwhzus&t=80665s&ab_channel=DatawithBaraa'.
 
 ---
 ## 🏗️ Data Architecture
